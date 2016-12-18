@@ -1,0 +1,16 @@
+{
+  "name": "ts-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^6.0.52",
+    "tslint": "^4.1.1",
+    "typescript": "^2.1.4"
+  }
+}
